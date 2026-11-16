@@ -1,4 +1,4 @@
-# Onlinedecoded
+
 # WordPress and Blogging Tips: A Practical Handbook
 
 A step-by-step reference for starting a blog on WordPress, growing its traffic and earning from it. Each topic links to a full guide on [OnlineDecoded](https://onlinedecoded.com/), and seasonal offers on the tools mentioned here are tracked at the [OnlineDecoded Black Friday deals hub](https://blackfriday.onlinedecoded.com/).
